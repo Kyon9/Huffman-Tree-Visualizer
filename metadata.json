@@ -1,0 +1,5 @@
+{
+  "name": "Huffman Tree Visualizer",
+  "description": "An interactive tool to visualize Huffman Tree construction and coding algorithms with synchronized C++ code highlighting.",
+  "requestFramePermissions": []
+}
